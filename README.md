@@ -4,6 +4,7 @@ issues.
 For example the edit distance between words (fondam, albanian) made a 6*8 matrix of the memory plus 2 initialization arrays Which held place in memory Specially if words or sequences grow large.
 
 Proposed Solution :
+
 An algorithm which is space efficient compared to the standard.
 Notice that each cell in the matrix ONLY need 3 surrounding cells to obtain the minimum result
 wanted using the minimum function
