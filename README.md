@@ -12,4 +12,4 @@ So if we managed to do a linear computation of for each cell
 A one dimensional array the holds the previous needed characters.
 This array's length is determined by the length of the smaller phrase+2.
 
-E(i,j) = Minimum function ( array[0] + diff, array[1] +1,  arr[length-1] +1 )
+E(i,j) = Minimum function ( array[0] + diff, array[1] +1,  array[length-1] +1 )
